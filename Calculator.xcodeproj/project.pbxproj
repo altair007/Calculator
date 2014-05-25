@@ -34,6 +34,7 @@
 		C216B3B919318B1A002ECA95 /* Calculator.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Calculator.1; sourceTree = "<group>"; };
 		C216B3C019318B6D002ECA95 /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
 		C216B3C119318B6D002ECA95 /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
+		C216B3C71932194A002ECA95 /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 				C216B3B719318B1A002ECA95 /* Supporting Files */,
 				C216B3C019318B6D002ECA95 /* Calculator.h */,
 				C216B3C119318B6D002ECA95 /* Calculator.m */,
+				C216B3C71932194A002ECA95 /* readme.md */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -259,6 +261,7 @@
 				C216B3BF19318B1A002ECA95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

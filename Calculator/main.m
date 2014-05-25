@@ -7,16 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Calculator.h"
 
 int main(int argc, const char * argv[])
 {
-
-    @autoreleasepool {
-        
-        // insert code here...
-        NSLog(@"Hello, World!");
-        
-    }
+    NSString * exprOc = @"2*6-95";
+    NSLog(@"%@ = %g", exprOc, [Calculator calculate:exprOc]);
     return 0;
 }
-
